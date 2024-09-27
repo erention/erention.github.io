@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erention.github.io/sitemap.erention.gz
+Sitemap: https://erention.github.io/app/sitemap.erention.gz
+Sitemap: https://erention.github.io/assets/sitemap.erention.gz
+Sitemap: https://erention.github.io/css/sitemap.erention.gz
+Sitemap: https://erention.github.io/data/sitemap.erention.gz
+Sitemap: https://erention.github.io/includes/sitemap.erention.gz
+Sitemap: https://erention.github.io/item/sitemap.erention.gz
+Sitemap: https://erention.github.io/src/sitemap.erention.gz
